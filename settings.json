@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "112266aa"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,10 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+      
       ]
     },
     "chat-log": true,
