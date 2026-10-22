@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "112266aa",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Itsmebinamra.aternos.me",
